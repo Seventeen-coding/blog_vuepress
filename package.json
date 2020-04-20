@@ -1,7 +1,7 @@
 {
-  "name": "my-blog",
+  "name": "17coding_blog",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "seventeen",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"

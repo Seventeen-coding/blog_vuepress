@@ -1,4 +1,5 @@
 module.exports = {
+  base:"/17coding_blog/",
   title: "Seventeen编程之路",
   description: ' ',
   "dest": "public",
@@ -22,7 +23,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/Seventeen017",
+            "link": "https://github.com/seventeen-coding",
             "icon": "reco-github"
           }
         ]
